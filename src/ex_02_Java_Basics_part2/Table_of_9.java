@@ -3,7 +3,8 @@ package ex_02_Java_Basics_part2;
 public class Table_of_9 {
     public static void main(String[] args) {
 //        Table of 9
-        System.out.println("Table of 9");
+
+        System.out.printf("Table of %s\n", "9");
         int table=9;
         System.out.printf("9x1=%d\n",table );
         System.out.printf("9x2=%d\n",table*2 );

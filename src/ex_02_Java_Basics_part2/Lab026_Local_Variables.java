@@ -9,7 +9,7 @@ public class Lab026_Local_Variables {
         long l = 9876543210l;
         float  f = 3.14f;
         double d = 67.8987654567;
-        boolean b = true;
+        boolean bool = true;
         char c = 'A';
 
 
